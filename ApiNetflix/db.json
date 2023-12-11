@@ -1,0 +1,1294 @@
+{
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35
+      ],
+      "id": 211672,
+      "original_language": "en",
+      "original_title": "Minions",
+      "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "popularity": 33.933,
+      "poster_path": "/vlOgaxUiMOA8sPDG9n3VhQabnEi.jpg",
+      "release_date": "2015-06-17",
+      "title": "Minions",
+      "src": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FCupid%20-%20Fifty%20Fifty%20(TwinVer.)%20-%20Sped%20Up%20(Lyrics%20%2B%20Vietsub)%20%E2%99%AB.mp4?alt=media&token=bce6f83a-1447-40d7-9f88-538d34a21c78",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FMinions-%20The%20Rise%20of%20Gru%20-%20Official%20Trailer.mp4?alt=media&token=3262939d-55d4-400a-b3e0-824a134ec274",
+      "vote_average": 6.394,
+      "vote_count": 9778
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nZko47PX3RRWzbDGtcj6PPR90By.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        16
+      ],
+      "id": 1045644,
+      "original_language": "en",
+      "original_title": "Minions & More Volume 2",
+      "overview": "Catch animated shorts like \"Phil’s Dance Party\" and \"Binky Nelson Unpacified\" in this compilation from the company behind the \"Despicable Me\" franchise.",
+      "popularity": 344.885,
+      "poster_path": "/j0w5tggQs0VVtXj5OF8kWqME2WG.jpg",
+      "release_date": "2022-11-08",
+      "title": "Minions & More Volume 2",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FThe%20Secret%20Life%20Of%20Pets%20-%20Official%20Teaser%20Trailer%20(HD)%20-%20Illumination.mp4?alt=media&token=03b01574-de7a-4aca-a5cb-70c0dd9a20ec",
+      "vote_average": 7.4,
+      "vote_count": 77
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uMSxXLfH7v30gRNBqsQaSP3yqX5.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 438148,
+      "original_language": "en",
+      "original_title": "Minions: The Rise of Gru",
+      "overview": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+      "popularity": 306.991,
+      "poster_path": "/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+      "release_date": "2022-06-29",
+      "title": "Minions: The Rise of Gru",
+      "src": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FJENNIE%20-%20'SOLO'%20M-V.mp4?alt=media&token=3ffe7ebf-8f81-4527-a09f-6861e6fa1851",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FCupid%20-%20Fifty%20Fifty%20(TwinVer.)%20-%20Sped%20Up%20(Lyrics%20%2B%20Vietsub)%20%E2%99%AB.mp4?alt=media&token=bce6f83a-1447-40d7-9f88-538d34a21c78",
+      "vote_average": 7.444,
+      "vote_count": 2770
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/e04iBCX3582bPRsYUb82texxZIY.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751
+      ],
+      "id": 1029119,
+      "original_language": "en",
+      "original_title": "Minions & More 1",
+      "overview": "This collection of Minions shorts from the \"Despicable Me\" franchise includes mini-movies like \"Training Wheels,\" \"Puppy\" and \"Yellow Is the New Black.\"",
+      "popularity": 223.774,
+      "poster_path": "/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg",
+      "release_date": "2022-09-27",
+      "title": "Minions & More 1",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FMinions%20Official%20Trailer%20%231%20(2015)%20-%20Despicable%20Me%20Prequel%20HD.mp4?alt=media&token=ef6e768b-eba8-412f-a795-b167d493faa1",
+      "vote_average": 6.948,
+      "vote_count": 242
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2Hckt3ug71qy1z9qrzHZx94pP0v.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 54553,
+      "original_language": "en",
+      "original_title": "Minions: Home Makeover",
+      "overview": "A social worker is coming to Gru's house to check if it's suitable for children. Margo, Edith, Agnes and the Minions must take care of the situation.",
+      "popularity": 13.09,
+      "poster_path": "/c63xSHPgjE0BgoarcA97zq185SP.jpg",
+      "release_date": "2010-12-13",
+      "title": "Minions: Home Makeover",
+      "video": false,
+      "vote_average": 6.738,
+      "vote_count": 149
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3MqoFBr3pDgmM4ylbqB6syCifNf.jpg",
+      "genre_ids": [
+        35,
+        16
+      ],
+      "id": 403052,
+      "original_language": "en",
+      "original_title": "Mower Minions",
+      "overview": "The Minions need to raise $20 to purchase an as seen on TV banana blender. So they take up lawn mowing at an old folks home, with hilarious antics!",
+      "popularity": 11.47,
+      "poster_path": "/oKVtq8SvLaybXC9oofod4uLRfyW.jpg",
+      "release_date": "2016-07-08",
+      "title": "Mower Minions",
+      "video": false,
+      "vote_average": 6.576,
+      "vote_count": 151
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rWXhj6vAVstbZdNRrgF8tAXrx1y.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 54559,
+      "original_language": "en",
+      "original_title": "Minions: Orientation Day",
+      "overview": "With so many jobs to choose from, the Minions have to make serious decisions after watching an 'Initiation Video'. What could go wrong?!",
+      "popularity": 9.72,
+      "poster_path": "/bSTNLXAqkLmImXNcELrdCaew8dj.jpg",
+      "release_date": "2010-12-13",
+      "title": "Minions: Orientation Day",
+      "video": false,
+      "vote_average": 6.847,
+      "vote_count": 167
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wPgAh9xtJL10WcFy93uTqD6sl1l.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 229408,
+      "original_language": "en",
+      "original_title": "Minions: Training Wheels",
+      "overview": "Margo, Edith, and Agnes spot an ice cream truck. The three of them go after the truck but Agnes falls as she attempts to pedal to the truck. The Minions, seeing her so upset by this, decide to build her a unicorn-themed motorcycle. Agnes goes for a little ride around town.",
+      "popularity": 10.122,
+      "poster_path": "/rT1L9N1LD2S1OO8qwzSFrphw0Oe.jpg",
+      "release_date": "2013-12-10",
+      "title": "Minions: Training Wheels",
+      "video": false,
+      "vote_average": 6.966,
+      "vote_count": 161
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vK48h2fZarnDjXdsnHZFyL5lveI.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        878
+      ],
+      "id": 229407,
+      "original_language": "en",
+      "original_title": "Minions: Puppy",
+      "overview": "A Minion, seeing many owners walk their dogs, wants a puppy of his own. He tries to leash a ladybug but fails. Luckily, a UFO that sweeps away the ladybug somehow agrees to become a Puppy.",
+      "popularity": 9.733,
+      "poster_path": "/f62rLpyiebBc6QfSTA4xGwwQkPY.jpg",
+      "release_date": "2013-12-10",
+      "title": "Minions: Puppy",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FTom%20%26%20Jerry%20-%20Tom%20%26%20Jerry%20in%20Full%20Screen%20-%20Classic%20Cartoon%20Compilation%20-%20WB%20Kids.mp4?alt=media&token=d98da718-a32c-4b06-9c4c-1111435b93de",
+      "vote_average": 7.207,
+      "vote_count": 198
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/186yWfGH0HRKBXlmayftGJHU87I.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        35
+      ],
+      "id": 764079,
+      "original_language": "en",
+      "original_title": "Minions: Holiday Special",
+      "overview": "Four mini-movie escapades starring the Minions, with various special guest appearances, all to celebrate the holidays!",
+      "popularity": 5.587,
+      "poster_path": "/zZI1nByCI0jOQqAUeTahU3j6pt1.jpg",
+      "release_date": "2020-11-27",
+      "title": "Minions: Holiday Special",
+      "video": false,
+      "vote_average": 7.008,
+      "vote_count": 131
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rRaXGX3COvkEf55Zfo0DVYsrPVf.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        10402
+      ],
+      "id": 375186,
+      "original_language": "en",
+      "original_title": "Minions Jingle Bells",
+      "overview": "Many Minions are ready, just out and about, to sing the classic Christmas song, Jingle Bells!",
+      "popularity": 1.282,
+      "poster_path": "/zECgONN6c2Z8L3jDqR4NiXAP6Sk.jpg",
+      "release_date": "2014-12-11",
+      "title": "Minions Jingle Bells",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7bBOpBMTf0OfjZRLlWZPbPrJkHW.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        12,
+        35
+      ],
+      "id": 440769,
+      "original_language": "en",
+      "original_title": "Minions: 3 Mini-Movie Collection",
+      "overview": "The Minions are back along with some new friends in three hilariously fun short films: Competition, Cro Minion, and Binky Nelson Unpacified.",
+      "popularity": 2.802,
+      "poster_path": "/yoWytTZRJjGXhkRcxVBvnOHKX85.jpg",
+      "release_date": "2016-03-25",
+      "title": "Minions: 3 Mini-Movie Collection",
+      "video": true,
+      "vote_average": 6.75,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ecJzs7HnppVOzDkUu4Y0sEsebNK.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 360848,
+      "original_language": "en",
+      "original_title": "Minions: Movie Auditions",
+      "overview": "",
+      "popularity": 2.262,
+      "poster_path": "/lS6ek8S3xDPhoG7dAUVANrmpkVs.jpg",
+      "release_date": "2013-01-01",
+      "title": "Minions: Movie Auditions",
+      "video": false,
+      "vote_average": 4.75,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yGWQ9QvqlRVu1VlwJJS9j9f17pW.jpg",
+      "genre_ids": [
+        878,
+        16,
+        35
+      ],
+      "id": 327781,
+      "original_language": "en",
+      "original_title": "Dark Minions",
+      "overview": "Two slackers try to make a paycheck working an intergalactic warship.",
+      "popularity": 1.382,
+      "poster_path": "/pOpMXTU8HXnTDebNRpe2RXFQUwa.jpg",
+      "release_date": "2013-04-19",
+      "title": "Dark Minions",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        9648,
+        27
+      ],
+      "id": 295987,
+      "original_language": "en",
+      "original_title": "The Minions",
+      "overview": "William stands at the window telling Abigail his story of walking down 'the witches' path. The unseen spectral Abigail taunts William suggesting that he walked down the path hoping to see her. William does not contradict her, but instead recalls that just as he thought he had made it past, 'and then the girls appeared'. As the story continues in flashback, William discovers two drunk girls - Sarah and the very wasted Katrina - who ask for his assistance. Seeing the helplessness of their situation, William decides to help walk the girls home. William is slowly drawn in by Katrina first by her mindlessly echoing of 'Love me' and then by her demanding a kiss. William gives her a kiss at first reluctantly and then more passionately at her urging. Abigail torments the conflicted William telling him that the girls are really minions of the witches. As the trio approach Katrina's apartment, Sarah can only watch in fear as William becomes more physically possessive of Katrina.",
+      "popularity": 1.4,
+      "poster_path": "/f6wheZKQgR36UfxdqJSWWvlVO9c.jpg",
+      "release_date": "2014-10-30",
+      "title": "The Minions",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rwCcy5v0pr84bWAXQi2VtuMGHWr.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 1099870,
+      "original_language": "en",
+      "original_title": "The Office x Minions",
+      "overview": "A re-imagining of The Office opening credits with Gru and his Minions, to celebrate Steve Carrell and the Minions: Rise of Gru theatrical release on July 1.",
+      "popularity": 0.84,
+      "poster_path": "/AvCtoLVBf66TG3V5yETZ2Eed99X.jpg",
+      "release_date": "2022-06-22",
+      "title": "The Office x Minions",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sqHiQfHemGXaO22YYjZYR0CswTE.jpg",
+      "genre_ids": [
+        16,
+        10751
+      ],
+      "id": 878357,
+      "original_language": "en",
+      "original_title": "Minions and Monsters",
+      "overview": "Laundry day goes cosplay when a Minion noob gets a seat at the table of some pro-role-playing gamers. Starting as a punching bag for monsters and punchline for peers, his perseverance unlocks bardacious skills just in time to save the day.",
+      "popularity": 1.425,
+      "poster_path": "/9DrIdIiAJkG8BUWCADkXl1G8Hla.jpg",
+      "release_date": "2021-06-11",
+      "title": "Minions and Monsters",
+      "video": false,
+      "vote_average": 6.25,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1wOu8rdvPxU1ObHi20VcRhfNpbo.jpg",
+      "genre_ids": [
+        12,
+        14,
+        28
+      ],
+      "id": 10195,
+      "original_language": "en",
+      "original_title": "Thor",
+      "overview": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+      "popularity": 91.335,
+      "poster_path": "/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg",
+      "release_date": "2011-04-21",
+      "title": "Thor",
+      "src": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2F%EB%89%B4%EC%A7%84%EC%8A%A4%20(NewJeans)%20_%20OMG%20-%201theKILLPO%20-%20%EC%9B%90%EB%8D%94%ED%82%AC%ED%8F%AC%20-%20%ED%82%AC%ED%8F%AC%EC%9D%B8%ED%8A%B8%20-%20%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4%20-%20Performance%20-%204K%20-%20%EB%AF%BC%EC%A7%80%20%ED%95%98%EB%8B%88%20%EB%8B%A4%EB%8B%88%EC%97%98%20%ED%95%B4%EB%A6%B0%20%ED%98%9C%EC%9D%B8.mp4?alt=media&token=9a73576e-e469-4121-a135-7db3b1643e1e",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FThor%20-%20Trailer%20(OFFICIAL).mp4?alt=media&token=7f90ffbd-cd5e-446a-a239-2384ef233466",
+      "vote_average": 6.768,
+      "vote_count": 19512
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+      "genre_ids": [
+        14,
+        28,
+        35
+      ],
+      "id": 616037,
+      "original_language": "en",
+      "original_title": "Thor: Love and Thunder",
+      "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+      "popularity": 362.397,
+      "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+      "release_date": "2022-07-06",
+      "title": "Thor: Love and Thunder",
+      "video": false,
+      "vote_average": 6.596,
+      "vote_count": 5787
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5wzaOqsxuXgErXEusfuE6AWtcNm.jpg",
+      "genre_ids": [
+        14,
+        16,
+        878
+      ],
+      "id": 50388,
+      "original_language": "ja",
+      "original_title": "いばらの王 -King of Thorn-",
+      "overview": "A mysterious virus, nicknamed Medusa, is spreading around Japan, turning its victims into stone. Given the impossibility of finding an immediate cure, the government opts for cryopreserving a select group of patients until they come up with a solution. Kasumi, one of the chosen ones, has been asleep for years and her awakening, more than a bed of roses, is a bed of thorns, and happens in the midst of total chaos where monstrous creatures lie in wait all around.",
+      "popularity": 17.149,
+      "poster_path": "/wH9SSbsNWKLtZjA4LBQ7P2GwbLZ.jpg",
+      "release_date": "2010-05-01",
+      "title": "King of Thorn",
+      "video": false,
+      "vote_average": 6.561,
+      "vote_count": 122
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14,
+        878,
+        35
+      ],
+      "id": 284053,
+      "original_language": "en",
+      "original_title": "Thor: Ragnarok",
+      "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+      "popularity": 109.173,
+      "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+      "release_date": "2017-10-24",
+      "title": "Thor: Ragnarok",
+      "src": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FJISOO%20-%20%E2%80%98%EA%BD%83(FLOWER)%E2%80%99%20M-V.mp4?alt=media&token=a8b82f00-c593-4e32-b875-2306cf235eba",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FThor-%20Ragnarok%20Teaser%20Trailer%20%5BHD%5D.mp4?alt=media&token=104bc977-2d7b-4184-83a5-2176123478f6",
+      "vote_average": 7.599,
+      "vote_count": 18987
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 76338,
+      "original_language": "en",
+      "original_title": "Thor: The Dark World",
+      "overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+      "popularity": 85.761,
+      "poster_path": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+      "release_date": "2013-10-30",
+      "title": "Thor: The Dark World",
+      "src": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FTom%20%26%20Jerry%20-%20Tom%20%26%20Jerry%20in%20Full%20Screen%20-%20Classic%20Cartoon%20Compilation%20-%20WB%20Kids.mp4?alt=media&token=d98da718-a32c-4b06-9c4c-1111435b93de",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FTom%20%26%20Jerry%20-%20Tom%20%26%20Jerry%20in%20Full%20Screen%20-%20Classic%20Cartoon%20Compilation%20-%20WB%20Kids.mp4?alt=media&token=d98da718-a32c-4b06-9c4c-1111435b93de",
+      "vote_average": 6.548,
+      "vote_count": 15926
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6UwmkaB1mRZ0fo5A79m5XpVA5RK.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        10751,
+        14
+      ],
+      "id": 106631,
+      "original_language": "is",
+      "original_title": "Hetjur Valhallar - Þór",
+      "overview": "An over confident teen with a magical weapon and a handful of imperfect gods join forces against an evil queen and her army of giants",
+      "popularity": 7.942,
+      "poster_path": "/6gs0642LLTa5Nl6vUR06ZQ3stTu.jpg",
+      "release_date": "2011-10-14",
+      "title": "Legends of Valhalla: Thor",
+      "video": false,
+      "vote_average": 5.256,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rESsefcThUTYAOX5HkRK5nTGGtj.jpg",
+      "genre_ids": [
+        14,
+        12,
+        28
+      ],
+      "id": 183154,
+      "original_language": "it",
+      "original_title": "Thor il conquistatore",
+      "overview": "After both his parents are brutally murdered by his fathers rival Gnut and his men the new born Thor is placed in hiding by the physical embodiment of the god Teisha.  Raised in secret under the guidance of Teisha, Thor comes to maturity and goes on a quest to avenge the death of his parents and return peace to his lands, in the process he discovers a woman to take as his wife, finds and uncovers his fathers sword and masters the art of combat, all under the ever watchful eye of the amorphous Teisha.",
+      "popularity": 2.634,
+      "poster_path": "/jGvDzNyBJxaK99snuHoDEOqh5hg.jpg",
+      "release_date": "1983-02-05",
+      "title": "Thor the Conqueror",
+      "video": false,
+      "vote_average": 3.794,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gseVao2FiyRZuqWQNl05BQ8TEVM.jpg",
+      "genre_ids": [
+        16,
+        12,
+        10751
+      ],
+      "id": 14317,
+      "original_language": "en",
+      "original_title": "The Wild Thornberrys Movie",
+      "overview": "Eliza and Debbie are two sisters who don't always get along. But their relationship is put to the test when Debbie's life is in danger, and Eliza might have to give up her power to talk to animals....",
+      "popularity": 21.263,
+      "poster_path": "/nmWpcUQtWHC4kjVCygiFEDR1wCY.jpg",
+      "release_date": "2002-12-20",
+      "title": "The Wild Thornberrys Movie",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 228
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/v6tInt4367fOcwNyWnPX3hIV2fL.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 387840,
+      "original_language": "es",
+      "original_title": "Purasangre",
+      "overview": "5 professionals rob a Horce Racetrack and a Casino Complex but when one of them makes too many mistakes, the police starts a deadliest manhunt to recover the money.",
+      "popularity": 7.613,
+      "poster_path": "/n8A7bsIrBrXYOWup6KVMWkwdGcX.jpg",
+      "release_date": "2016-01-13",
+      "title": "Thoroughbred",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1y6dEBTOzCyJRetN9fOtS0H7Vnx.jpg",
+      "genre_ids": [
+        28,
+        16,
+        14,
+        878
+      ],
+      "id": 101907,
+      "original_language": "en",
+      "original_title": "Hulk vs. Thor",
+      "overview": "For ages, Odin has protected his kingdom of Asgard. But every winter, the All-Father must rest and regain his strength for one week. During this time, all of Asgard's foes (including trolls, giants, dark elves, and demons) try to claim the realm for their own, but they are always stopped by Odin's son, the mighty Thor, albeit with the loss of many brave Asgardian warriors. Loki, god of mischief, has kidnapped Dr. Bruce Banner and brought him to Asgard with the help of Amora, once Thor's lover, now the supervillain known as the Enchantress. Loki makes Banner angry and he changes into the Hulk. The Enchantress then casts a spell over the Hulk which separates Banner from his monstrous alter-ego and grants Loki control over the Hulk's body.",
+      "popularity": 17.926,
+      "poster_path": "/pezTIa0SmmNIhjQWzo63OlBdpLf.jpg",
+      "release_date": "2009-01-27",
+      "title": "Hulk vs. Thor",
+      "video": false,
+      "vote_average": 6.784,
+      "vote_count": 190
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RwWclnfcAcFG5n1qejtKRQDqE3.jpg",
+      "genre_ids": [
+        878,
+        14
+      ],
+      "id": 76535,
+      "original_language": "en",
+      "original_title": "Marvel One-Shot: A Funny",
+      "overview": "Agent Coulson stops at a convenience store and deals with a coincidental robbery during his visit.",
+      "popularity": 15.908,
+      "poster_path": "/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg",
+      "release_date": "2011-10-25",
+      "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+      "video": false,
+      "vote_average": 6.862,
+      "vote_count": 372
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iKSONLvFh10sWSFBrixGLdgvh3V.jpg",
+      "genre_ids": [
+        18,
+        53
+      ],
+      "id": 397722,
+      "original_language": "en",
+      "original_title": "Thoroughbreds",
+      "overview": "Two teenage girls in suburban Connecticut rekindle their unlikely friendship after years of growing apart. In the process, they learn that neither is what she seems to be, and that a murder might solve both of their problems.",
+      "popularity": 11.307,
+      "poster_path": "/pIxZzTfITqBpZxbIGsV01DcoHsT.jpg",
+      "release_date": "2018-03-09",
+      "title": "Thoroughbreds",
+      "video": false,
+      "vote_average": 6.418,
+      "vote_count": 1005
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yq1Zr8mCVd0jWpoLO4u9RiUB8K7.jpg",
+      "genre_ids": [
+        35,
+        878
+      ],
+      "id": 413279,
+      "original_language": "en",
+      "original_title": "Team Thor",
+      "overview": "Discover what Thor was up to during the events of Captain America: Civil War.",
+      "popularity": 11.24,
+      "poster_path": "/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg",
+      "release_date": "2016-08-28",
+      "title": "Team Thor",
+      "video": false,
+      "vote_average": 7.301,
+      "vote_count": 475
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oBIn5pHlbmZgr5b8D6WL10rsgO5.jpg",
+      "genre_ids": [
+        878,
+        35,
+        14
+      ],
+      "id": 441829,
+      "original_language": "en",
+      "original_title": "Team Thor: Part 2",
+      "overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
+      "popularity": 13.639,
+      "poster_path": "/9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg",
+      "release_date": "2017-02-14",
+      "title": "Team Thor: Part 2",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 274
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        27
+      ],
+      "id": 366914,
+      "original_language": "ja",
+      "original_title": "THORN",
+      "overview": "A high-school boy with telekinesis kills himself after being bullied and beaten by his classmates. The boy had been secretly storing his special power in his pet cactus. After the boy's death, the cactus is passed onto his mother who inherits his power and vows to avenge his death.",
+      "popularity": 1.203,
+      "poster_path": "/iv6hIk9fCLGoxFUIUgArmcoHB26.jpg",
+      "release_date": "2015-09-13",
+      "title": "Thorn",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+      "genre_ids": [
+        14,
+        28
+      ],
+      "id": 557,
+      "original_language": "en",
+      "original_title": "Spider-Man",
+      "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+      "popularity": 86.918,
+      "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+      "release_date": "2002-05-01",
+      "title": "Spider-Man",
+      "video": false,
+      "vote_average": 7.266,
+      "vote_count": 17007
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
+      "genre_ids": [
+        878,
+        28,
+        80,
+        10770
+      ],
+      "id": 225914,
+      "original_language": "en",
+      "original_title": "Spider-Man",
+      "overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+      "popularity": 19.059,
+      "poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
+      "release_date": "1978-03-15",
+      "title": "Spider-Man",
+      "video": false,
+      "vote_average": 5.884,
+      "vote_count": 112
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 634649,
+      "original_language": "en",
+      "original_title": "Spider-Man: No Way Home",
+      "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+      "popularity": 400.359,
+      "poster_path": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+      "release_date": "2021-12-15",
+      "title": "Spider-Man: No Way Home",
+      "src": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FLISA%20-%20'MONEY'%20EXCLUSIVE%20PERFORMANCE%20VIDEO.mp4?alt=media&token=02cd2157-d7c9-48d2-92bb-1b02771c5f32",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FSpider-Man-%20No%20Way%20Home%20-%20Official%20Trailer.mp4?alt=media&token=0c6ba5c3-c491-4d09-b624-61d86e151709",
+      "vote_average": 8.009,
+      "vote_count": 17204
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 68658,
+      "original_language": "en",
+      "original_title": "Spiderman",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": "/y6M33fb3AjJAD7jMP6TSumjtl1O.jpg",
+      "release_date": "1990-01-01",
+      "title": "Spider-Man",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28
+      ],
+      "id": 445033,
+      "original_language": "en",
+      "original_title": "Spider-Man",
+      "overview": "Spider-man must rescue the beautiful daughter of the evil Dr. Lightning.",
+      "popularity": 2.992,
+      "poster_path": "/iYBfBk1i9zjN9Vybbj8UgTYzkyv.jpg",
+      "release_date": "1969-01-01",
+      "title": "Spider-Man",
+      "video": false,
+      "vote_average": 6.767,
+      "vote_count": 15
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        878
+      ],
+      "id": 324857,
+      "original_language": "en",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+      "popularity": 101.831,
+      "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "release_date": "2018-12-14",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "video": false,
+      "vote_average": 8.407,
+      "vote_count": 12614
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 429617,
+      "original_language": "en",
+      "original_title": "Spider-Man: Far From Home",
+      "overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+      "popularity": 85.837,
+      "poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+      "release_date": "2019-06-28",
+      "title": "Spider-Man: Far From Home",
+      "video": false,
+      "vote_average": 7.461,
+      "vote_count": 13919
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 569094,
+      "original_language": "en",
+      "original_title": "Spider-Man: Across the Spider-Verse",
+      "overview": "After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most.",
+      "popularity": 102.01,
+      "poster_path": "/zknrogDlwcmaz3yHkA3yEhy005t.jpg",
+      "release_date": "2023-05-31",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        18
+      ],
+      "id": 315635,
+      "original_language": "en",
+      "original_title": "Spider-Man: Homecoming",
+      "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+      "popularity": 106.68,
+      "poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+      "release_date": "2017-07-05",
+      "title": "Spider-Man: Homecoming",
+      "src": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FBTS%20(%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8)%20'DNA'%20Official%20MV.mp4?alt=media&token=99c39e97-04cd-4565-8975-818e89501f2b",
+      "video": "https://firebasestorage.googleapis.com/v0/b/netflixsource-75bc5.appspot.com/o/images%2FSPIDER-MAN-%20HOMECOMING%20-%20Official%20Trailer%20(HD).mp4?alt=media&token=7e0c3fc3-cd23-4582-9d8b-e4c49d4e04fd",
+      "vote_average": 7.351,
+      "vote_count": 19889
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mPyiNWS0upEG1mGKOKyCQSoZpnp.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 102382,
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man 2",
+      "overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+      "popularity": 100.828,
+      "poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+      "release_date": "2014-04-16",
+      "title": "The Amazing Spider-Man 2",
+      "video": false,
+      "vote_average": 6.486,
+      "vote_count": 11911
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sLWUtbrpiLp23a0XDSiUiltdFPJ.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1930,
+      "original_language": "en",
+      "original_title": "The Amazing Spider-Man",
+      "overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+      "popularity": 102.818,
+      "poster_path": "/jIfkQNARYyERqRAq1p1c8xgePp4.jpg",
+      "release_date": "2012-06-23",
+      "title": "The Amazing Spider-Man",
+      "video": false,
+      "vote_average": 6.684,
+      "vote_count": 15909
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 559,
+      "original_language": "en",
+      "original_title": "Spider-Man 3",
+      "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+      "popularity": 72.702,
+      "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+      "release_date": "2007-05-01",
+      "title": "Spider-Man 3",
+      "video": false,
+      "vote_average": 6.384,
+      "vote_count": 12620
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ntyghfvPL1a99c0uLunMxRB2hiz.jpg",
+      "genre_ids": [
+        18,
+        878
+      ],
+      "id": 1111818,
+      "original_language": "en",
+      "original_title": "Spider-Man: Morales - Chapter One",
+      "overview": "In the wake of a personal tragedy, young Miles Morales begins his journey of donning the mask as the titular hero Spider-Man.",
+      "popularity": 9.345,
+      "poster_path": "/26V8R8dqRo8u59NPSW3gEO13AuD.jpg",
+      "release_date": "2023-05-08",
+      "title": "Spider-Man: Morales - Chapter One",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3xMUw2GZzm83GQ3mXoiX57wiSMs.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 1102421,
+      "original_language": "en",
+      "original_title": "Spider-Man: Power and Responsibility",
+      "overview": "In denial of the truth behind his Uncle's death, Peter Parker must discover what kind of hero he wants to be. All the while, the Sinister Six are tearing apart New York City.",
+      "popularity": 8.098,
+      "poster_path": "/5XDGcFMnrSykvfoZSbl2u7raIch.jpg",
+      "release_date": "2022-01-21",
+      "title": "Spider-Man: Power and Responsibility",
+      "video": false,
+      "vote_average": 6.667,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tObVe1R7JnO3VXBvAOWTEPmmegu.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 961651,
+      "original_language": "en",
+      "original_title": "Spider-Man: All Roads Lead ",
+      "overview": "Join our hosts JB Smoove and Martin Starr for a celebration of 20 years of Spider-Man™ movies!  From the original Sam Raimi trilogy to Marc Webb’s “amazing” movies to the latest trio from Director Jon Watts, we will take viewers through the stars, the stunts and action, the villains and heroes and an homage to Stan Lee, along with a few surprises. Find your favourite Spider-Man pajamas and prepare to swing through the past two decades of Spider-Man at the movies!",
+      "popularity": 34.551,
+      "poster_path": "/e2LLmI5wKIrWGAy9Of3yyWu7Szn.jpg",
+      "release_date": "2022-05-03",
+      "title": "Spider-Man: All Roads Lead to No Way Home",
+      "video": false,
+      "vote_average": 7.044,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8G6HCS82vNxgg5wp7oBDSk32XpF.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 558,
+      "original_language": "en",
+      "original_title": "Spider-Man 2",
+      "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+      "popularity": 30.975,
+      "poster_path": "/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
+      "release_date": "2004-06-25",
+      "title": "Spider-Man 2",
+      "video": false,
+      "vote_average": 7.24,
+      "vote_count": 13606
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bywThfrqhK4PUPMPhkrkDAKF0yd.jpg",
+      "genre_ids": [
+        99,
+        10770
+      ],
+      "id": 228088,
+      "original_language": "fr",
+      "original_title": "De Superman à Spider-Man",
+      "overview": "The historical saga of American superheroes. Born in the period between the Great Depression and the World War II to combat the hobgoblins of the modern world, these mutant human beings with superhuman powers colonized the funny papers, radio dramas, television and films, to become a truly national industry in the United States: they gave expression to the fears and obsessions of the twentieth century and bolstered American ideals.",
+      "popularity": 13.083,
+      "poster_path": "/b6760qS8pEb3elWp4e7KPQsGliC.jpg",
+      "release_date": "2001-12-23",
+      "title": "Once Upon a Time: The Super Heroes",
+      "video": false,
+      "vote_average": 6.595,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        28,
+        12,
+        878
+      ],
+      "id": 911916,
+      "original_language": "en",
+      "original_title": "Spider-Man: Beyond the Spider-Verse",
+      "overview": "The further continuing story of Miles Morales and the many other Spider-People from different realities.",
+      "popularity": 13.26,
+      "poster_path": "/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg",
+      "release_date": "2024-03-27",
+      "title": "Spider-Man: Beyond the Spider-Verse",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1101602,
+      "original_language": "en",
+      "original_title": "Spider-Man: Lotus",
+      "overview": "Following the tragic death of his former girlfriend - seemingly caused by his own attempt to save her - Peter Parker (Warden Wayne) lingers in his guilt of the past, questioning whether the curse of his alter ego should be buried for good. When he's met by the news that a terminally ill child has requested to meet Spider-Man, Peter contemplates the decision to comfort him in his final days.",
+      "popularity": 20.17,
+      "poster_path": "/julYN42FUzy1aUaQcveDm7xdDvn.jpg",
+      "release_date": "2023-12-31",
+      "title": "Spider-Man: Lotus",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "username": "admin",
+      "password": "123456",
+      "email": "admin@gmail.com",
+      "permission": 0,
+      "type": "admin"
+    },
+    {
+      "username": "ahihi",
+      "password": "abc12345",
+      "email": "marcoreus1503@gmail.com",
+      "name": "user1",
+      "permission": 1,
+      "id": 2,
+      "type": "user"
+    },
+    {
+      "username": "test1",
+      "password": "123456789",
+      "email": "test1@gmail.com",
+      "name": "user2",
+      "type": "user",
+      "id": 3
+    },
+    {
+      "username": "test2",
+      "password": "123456789",
+      "email": "test2@gmail.com",
+      "name": "user2",
+      "type": "user",
+      "id": 4
+    }
+  ],
+  "historymovies": [
+    {
+      "id": 1,
+      "movie_id": "",
+      "user_id": "",
+      "title": "",
+      "backdrop_path": "",
+      "date": ""
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "movie_id": "315635",
+      "user_id": "ahihi",
+      "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+      "date": "4/25/2023",
+      "id": 2
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "movie_id": "315635",
+      "user_id": "admin",
+      "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+      "date": "4/25/2023",
+      "id": 3
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "movie_id": "634649",
+      "user_id": "test2",
+      "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "date": "4/25/2023",
+      "id": 4
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "movie_id": "315635",
+      "user_id": "test2",
+      "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+      "date": "4/25/2023",
+      "id": 5
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "movie_id": "284053",
+      "user_id": "test2",
+      "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+      "date": "4/25/2023",
+      "id": 6
+    },
+    {
+      "title": "Thor: The Dark World",
+      "movie_id": "76338",
+      "user_id": "test2",
+      "backdrop_path": "/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
+      "date": "4/25/2023",
+      "id": 7
+    },
+    {
+      "title": "Minions & More Volume 2",
+      "movie_id": "1045644",
+      "user_id": "admin",
+      "backdrop_path": "/nZko47PX3RRWzbDGtcj6PPR90By.jpg",
+      "date": "12/11/2023",
+      "id": 8
+    },
+    {
+      "title": "Thor",
+      "movie_id": "10195",
+      "user_id": "admin",
+      "backdrop_path": "/1wOu8rdvPxU1ObHi20VcRhfNpbo.jpg",
+      "date": "12/11/2023",
+      "id": 9
+    },
+    {
+      "title": "Team Thor: Part 2",
+      "movie_id": "441829",
+      "user_id": "admin",
+      "backdrop_path": "/oBIn5pHlbmZgr5b8D6WL10rsgO5.jpg",
+      "date": "12/11/2023",
+      "id": 10
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "movie_id": "324857",
+      "user_id": "test2",
+      "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
+      "date": "12/11/2023",
+      "id": 11
+    }
+  ],
+  "ratemovies": [
+    {
+      "movie_id": "10195",
+      "user_id": "ahihi",
+      "rate": 5,
+      "comment": "em iu Roseee",
+      "id": 1
+    },
+    {
+      "movie_id": "10195",
+      "user_id": "ahihi",
+      "rate": 4.5,
+      "comment": "hehehe",
+      "id": 2
+    },
+    {
+      "movie_id": "10195",
+      "user_id": "ahihi",
+      "rate": 5,
+      "comment": "hihihi",
+      "id": 3
+    },
+    {
+      "movie_id": "10195",
+      "user_id": "ahihi",
+      "rate": 4.5,
+      "comment": "em iu Roseee",
+      "id": 4
+    },
+    {
+      "movie_id": "315635",
+      "user_id": "ahihi",
+      "rate": 4.5,
+      "comment": "Em iu anh V",
+      "id": 5
+    },
+    {
+      "movie_id": "315635",
+      "user_id": "ahihi",
+      "rate": 5,
+      "comment": "Em iu anh JungKook",
+      "id": 6
+    },
+    {
+      "movie_id": "315635",
+      "user_id": "ahihi",
+      "rate": 5,
+      "comment": "em iu anh Suga",
+      "id": 7
+    },
+    {
+      "movie_id": "10195",
+      "user_id": "ahihi",
+      "rate": 5,
+      "comment": "hihihi",
+      "id": 8
+    },
+    {
+      "movie_id": "634649",
+      "user_id": "ahihi",
+      "rate": 5,
+      "comment": "Meo meo meo, tra lai tam tri toi day",
+      "id": 9
+    },
+    {
+      "movie_id": "634649",
+      "user_id": "test1",
+      "rate": 5,
+      "comment": "meo meo meo",
+      "id": 10
+    },
+    {
+      "movie_id": "284053",
+      "user_id": "test1",
+      "rate": 4,
+      "comment": "Em iu anh",
+      "id": 11
+    },
+    {
+      "movie_id": "225914",
+      "user_id": "ahihi",
+      "rate": 0.5,
+      "comment": "Phim nhu cuc",
+      "id": 12
+    },
+    {
+      "movie_id": "315635",
+      "user_id": "ahihi",
+      "rate": 5,
+      "comment": "acddđfbvfdg",
+      "id": 13
+    },
+    {
+      "movie_id": "284053",
+      "user_id": "ahihi",
+      "rate": 4,
+      "comment": "em iu chi <3 ",
+      "id": 14
+    },
+    {
+      "movie_id": "315635",
+      "user_id": "admin",
+      "rate": 1,
+      "comment": "phim rat chan",
+      "id": 15
+    },
+    {
+      "movie_id": "634649",
+      "user_id": "test2",
+      "rate": 3,
+      "comment": "phim nay hay ghe",
+      "id": 16
+    },
+    {
+      "movie_id": "315635",
+      "user_id": "test2",
+      "rate": 1.5,
+      "comment": "Test average",
+      "id": 17
+    },
+    {
+      "movie_id": "76338",
+      "user_id": "test2",
+      "rate": 5,
+      "comment": "Phim nay hay ghe",
+      "id": 18
+    },
+    {
+      "movie_id": "76338",
+      "user_id": "test2",
+      "rate": 3,
+      "comment": "Phim nay binh thuong",
+      "id": 19
+    },
+    {
+      "movie_id": "315635",
+      "user_id": "test2",
+      "rate": 5,
+      "comment": "chi hanh xinh dep",
+      "id": 20
+    },
+    {
+      "movie_id": "324857",
+      "user_id": "test2",
+      "rate": 0,
+      "comment": "fgbfgbf",
+      "id": 21
+    }
+  ]
+}
