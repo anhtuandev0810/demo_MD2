@@ -5,6 +5,11 @@
 .nav-link {
   color: #fff !important;
 }
+
+.nav-link:hover {
+  color: red !important;
+
+}
 .active {
   color: red !important;
   /* border-bottom: 2px solid #fff;     */
@@ -16,4 +21,22 @@
 }
 .handleUser {
   background-color: #222;
+}
+
+.login {
+  margin-right: 10px;
+  color: white;
+}
+
+.login:hover {
+  color: #ccc;
+}
+
+.signup {
+  margin-right: 10px;
+  color: white;
+}
+
+.signup:hover {
+  color: #ccc;
 }

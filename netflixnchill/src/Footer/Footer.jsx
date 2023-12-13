@@ -25,7 +25,7 @@ function Footer(props) {
               </p>
             </div>
             <div className="col-xs-6 col-md-3">
-              <h6>Categories</h6>
+              {/* <h6>Categories</h6>
               <ul className="footer-links">
                 <li>
                   <a href="" style={{ color: "white" }}>
@@ -47,7 +47,7 @@ function Footer(props) {
                     Duong
                   </a>
                 </li>
-              </ul>
+              </ul> */}
             </div>
             <div className="col-xs-6 col-md-3">
               <h6>Quick Links</h6>
@@ -88,7 +88,7 @@ function Footer(props) {
               <p className="copyright-text">
                 Copyright © 2023 All Rights Reserved by{" "}
                 <a href="#" style={{ color: "white" }}>
-                  DuowngM
+                  Rikkeisoft
                 </a>
                 .
               </p>

@@ -16,10 +16,11 @@ function HistoryMyMovies() {
   useEffect(() => {
     loadHistoryMovie();
   }, []);
+  
   return (
     <div style={{ backgroundColor: "#222" }}>
       <div className="container" style={{ backgroundColor: "#222" }}>
-        <h1 style={{ color: "white" }}>HistoryMyMovies</h1>
+        <h1 style={{ color: "white" }}>History Movies</h1>
         <Table style={{ color: "white" }}>
           <thead>
             <tr className="bg-dark text-white">

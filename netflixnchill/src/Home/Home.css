@@ -301,14 +301,15 @@ body {
 .titleh1 {
   text-align: center;
   padding: 20px;
-  border-top: 1px solid #fff;
+  /* border-top: 1px solid #fff; */
+  margin-top: 20px;
 }
 .searchMovies {
   position: sticky;
   top: 65px;
   display: inline-block;
   width: 100px;
-  
+  left: 100%;
 }
 .search-box {
   width: fit-content;
@@ -350,7 +351,7 @@ body {
   background-color: transparent;
   pointer-events: painted;
 }
-.btn-search:hover + .input-search,
+.input-search + .btn-search:hover,
 .input-search:hover {
   width: 300px;
   border-radius: 0px;

@@ -1042,14 +1042,6 @@
       "name": "user2",
       "type": "user",
       "id": 3
-    },
-    {
-      "username": "test2",
-      "password": "123456789",
-      "email": "test2@gmail.com",
-      "name": "user2",
-      "type": "user",
-      "id": 4
     }
   ],
   "historymovies": [
@@ -1140,6 +1132,22 @@
       "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
       "date": "12/11/2023",
       "id": 11
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "movie_id": "634649",
+      "user_id": null,
+      "backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "date": "12/13/2023",
+      "id": 12
+    },
+    {
+      "title": "Thor",
+      "movie_id": "10195",
+      "user_id": "test1",
+      "backdrop_path": "/1wOu8rdvPxU1ObHi20VcRhfNpbo.jpg",
+      "date": "12/13/2023",
+      "id": 13
     }
   ],
   "ratemovies": [

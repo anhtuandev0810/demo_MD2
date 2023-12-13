@@ -33,20 +33,20 @@ function AdminUser() {
   return (
     <>
       <div className="containerAdmin" style={{ color: "white" }}>
-        <div className="navbarAdmin">
-          <h1>Navbar Admin</h1>
-          <Link to="/user/admin/users">
-            <div>
-              <h4>Quản lý User</h4>
+        <div className="navbarAdmin" style={{marginTop: "20px"}}>
+          {/* <h1>Navbar Admin</h1> */}
+          <Link to="/user/admin/users" style={{textDecoration: "none", color: "white"}}>
+            <div >
+              <h4 >Quản lý User</h4>
             </div>
           </Link>
-          <Link to="/user/admin/movie">
+          <Link to="/user/admin/movie" style={{textDecoration: "none", color: "white"}}>
             <div>
               {" "}
               <h4>Quản lý Movie</h4>
             </div>
           </Link>
-          <Link to="/user/admin/addmovie">
+          <Link to="/user/admin/addmovie" style={{textDecoration: "none", color: "white"}}>
             <div>
               {" "}
               <h4>Add Movie</h4>

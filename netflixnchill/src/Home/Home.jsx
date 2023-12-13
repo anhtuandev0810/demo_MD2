@@ -13,10 +13,10 @@ function Home() {
     loadMovie();
   }, []);
   const [text, setText] = useState("");
-  useEffect(() => {
-    console.log(text);
+  useEffect(() => { 
+    console.log(text); 
   }, [text]);
-  const handleSearchInput = (e) => {
+  const handleSearchInput = (e) => { 
     setText(e.target.value);
   };
   const handleSearch = async () => {
@@ -34,25 +34,25 @@ function Home() {
   return (
     <div style={{ backgroundColor: "#222", width: "100vw" }}>
       {/* <div className="hero"></div> */}
-      <div className="searchMovies">
+      {/* <div className="searchMovies">
         <div className="search-box">
           <div>
-            <button class="btn-search" onClick={handleSearch}>
-              <i
-                class="fa-solid fa-magnifying-glass"
-                style={{ color: "white" }}
-              ></i>
-            </button>
             <input
               type="text"
               class="input-search"
-              placeholder="Type to Search..."
+              placeholder="Type to search..."
               value={text}
               onChange={(e) => handleSearchInput(e)}
             />
+            <button class="btn-search" onClick={handleSearch}>
+              <i
+                class="fa-solid fa-magnifying-glass"
+                style={{ color: "white" }} 
+              ></i>
+            </button>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="title">
         <h1 className="titleh1" style={{ color: "white" }}>
           Phim đang được chiếu

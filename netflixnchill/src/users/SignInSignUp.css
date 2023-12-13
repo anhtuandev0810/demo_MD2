@@ -18,14 +18,16 @@ button {
   padding-bottom: 30px;
 }
 .buttonDK {
-  width: 1000px;
+  /* align-items: center; */
+  width: 510px;
   height: 50px;
   background-color: red;
   border-radius: 5px;
   font-weight: bold;
+  margin-left: 80px;
 }
 .buttonDK:hover {
-  background-color: #fff;
-  color: red;
+  background-color: rgb(180, 6, 6);
+  color: white;
   font-weight: bold;
 }

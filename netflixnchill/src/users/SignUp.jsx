@@ -48,9 +48,9 @@ function SignUp() {
   return (
     <div className="containerUser" style={{ color: "white" }}>
       <div className="w-75 mx-auto shadow p-5">
-        <h1>DANG KY</h1>
+        <h1 style={{marginLeft: "80px"}}>Register</h1>
         <form onSubmit={(e) => handleSubmit(e)}>
-          <div className="inputUser">
+          <div className="inputUser" style={{marginLeft: "80px"}}>
             {" "}
             <label> Username: </label>
             <br></br>
@@ -62,7 +62,7 @@ function SignUp() {
               className="inputText"
             />
           </div>
-          <div className="inputUser">
+          <div className="inputUser" style={{marginLeft: "80px"}}>
             {" "}
             <label> Password: </label>
             <br></br>
@@ -74,7 +74,7 @@ function SignUp() {
               className="inputText"
             />
           </div>
-          <div className="inputUser">
+          <div className="inputUser" style={{marginLeft: "80px"}}>
             {" "}
             <label> Email: </label>
             <br></br>
@@ -86,7 +86,7 @@ function SignUp() {
               className="inputText"
             />
           </div>
-          <div className="inputUser">
+          <div className="inputUser" style={{marginLeft: "80px"}}>
             {" "}
             <label> Name: </label>
             <br></br>
@@ -99,7 +99,7 @@ function SignUp() {
             />
           </div>
           <button variant="outline-success" type="submit" className="buttonDK">
-            Success
+            Submit
           </button>
         </form>
       </div>

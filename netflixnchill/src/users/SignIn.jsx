@@ -40,7 +40,7 @@ function SignIn() {
   return (
     <div className="containerUser" style={{ color: "white" }}>
       <div className="w-75 mx-auto shadow p-5">
-        <h1>DANG NHAP</h1>
+        <h1>Login</h1>
         <form onSubmit={(e) => handleSubmit(e)}>
           <div className="inputUser">
             <label className="labelName"> Username: </label>
@@ -63,7 +63,7 @@ function SignIn() {
             />
           </div>
           <button variant="outline-success" type="submit" className="buttonDK">
-            Success
+            Submit
           </button>{" "}
         </form>
       </div>

@@ -65,20 +65,20 @@ function AdminMovie() {
   return (
     <>
       <div className="containerAdmin" style={{ color: "white" }}>
-        <div className="navbarAdmin">
-          <h1>Navbar Admin</h1>
-          <NavLink to="/user/admin/users">
+        <div className="navbarAdmin" style={{marginTop: "20px"}}>
+          {/* <h1>Navbar Admin</h1> */}
+          <NavLink to="/user/admin/users" style={{textDecoration: "none", color: "white"}}>
             <div>
               <h4>Quản lý User</h4>
             </div>
           </NavLink>
-          <NavLink to="/user/admin/movie">
+          <NavLink to="/user/admin/movie" style={{textDecoration: "none", color: "white"}}>
             <div>
               {" "}
               <h4>Quản lý Movie</h4>
             </div>
           </NavLink>
-          <NavLink to="/user/admin/addmovie">
+          <NavLink to="/user/admin/addmovie" style={{textDecoration: "none", color: "white"}}>
             <div>
               {" "}
               <h4>Add Movie</h4>

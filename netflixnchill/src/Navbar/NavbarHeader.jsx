@@ -7,7 +7,7 @@ import Button from "react-bootstrap/Button";
 import Dropdown from "react-bootstrap/Dropdown";
 import DropdownButton from "react-bootstrap/DropdownButton";
 import "./Navbar.css";
-
+import Home from "../Home/Home";
 function NavbarHeader() {
   const flaguser = localStorage.getItem("flaguser");
   const typeuser = localStorage.getItem("typeuser");
@@ -96,11 +96,13 @@ function NavbarHeader() {
                 </>
               ) : (
                 <>
-                  <Link to="/user/signin">
-                    <Button variant="outline-primary">Đăng nhập</Button>
+                  <Link  to="/user/signin" style={{textDecoration: "none"}}>
+                    {/* <Button variant="outline-primary">Đăng nhập</Button> */}
+                    <span className="login" >Đăng nhập</span>
                   </Link>
-                  <Link to="/user/signup">
-                    <Button variant="outline-success">Đăng ký</Button>
+                  <Link  to="/user/signup" style={{textDecoration: "none"}}>
+                    {/* <Button variant="outline-success">Đăng ký</Button> */}
+                    <span className="signup" >Đăng kí</span>
                   </Link>
                 </>
               )}
